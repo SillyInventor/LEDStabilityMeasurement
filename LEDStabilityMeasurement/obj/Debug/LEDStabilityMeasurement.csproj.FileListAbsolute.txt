@@ -1,0 +1,10 @@
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\bin\Debug\LEDStabilityMeasurement.exe.config
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\bin\Debug\LEDStabilityMeasurement.exe
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\bin\Debug\LEDStabilityMeasurement.pdb
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.csprojAssemblyReference.cache
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.Properties.Resources.resources
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.csproj.GenerateResource.cache
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.csproj.CoreCompileInputs.cache
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.exe
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.pdb
+C:\Users\JamesDavis\source\repos\LEDStabilityMeasurement\LEDStabilityMeasurement\obj\Debug\LEDStabilityMeasurement.Form1.resources
